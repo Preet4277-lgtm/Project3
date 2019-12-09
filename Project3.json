@@ -3,7 +3,7 @@
 "dealsList" : [
   {
     "name" : "Hello",
-    "price" : 800,
+    "price" : 900,
     "features" : "ice cream",
     "description": "excellent",
     "image": "live-ladbugs_compress.svg"
