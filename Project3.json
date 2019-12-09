@@ -2,7 +2,7 @@
 
 "dealsList" : [
   {
-    "name" : "Hello",
+    "name" : "House",
     "price" : 1000,
     "features" : "ice cream",
     "description": "excellent",
@@ -12,7 +12,7 @@
 
 
   {
-    "name" : "Hello",
+    "name" : "Uranium-ore",
     "price" : 800,
     "features" : "ice cream",
     "description": "excellent",
