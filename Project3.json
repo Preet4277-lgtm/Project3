@@ -1,0 +1,22 @@
+{
+
+"dealsList" : [
+  {
+    "name" : "Hello",
+    "price" : 800,
+    "features" : "ice cream",
+    "description": "excellent",
+    "image": "live-ladbugs_compress.svg"
+  },
+
+
+
+  {
+    "name" : "Hello",
+    "price" : 800,
+    "features" : "ice cream",
+    "description": "excellent",
+    "image": "uranium-ore_compress.svg"
+    }
+  ]
+}
