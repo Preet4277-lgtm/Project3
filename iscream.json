@@ -1,0 +1,67 @@
+{
+"companyName" : "I Scream Inc.",
+"topFlavours" : [
+  {
+    "name" : "A pre-fabricated home in a shipping container",
+    "price" : "$36,000",
+    "features" : [
+      "peach puree", "mango", "honey"
+    ],
+    "description" : "peppermint cream",
+    "image": "uranium-ore_compress.svg"
+  },
+
+  {
+    "name" : "1,500 live ladybugs",
+    "price" : "$3.05",
+    "description" : "sorbet",
+    "features" : [
+      "peach puree", "mango", "honey"
+    ],
+    "image" : "uranium-ore_compress.svg"
+  },
+
+  {
+    "name" : "Uranium ore",
+    "calories" : "$39.95",
+    "description" : "frozen yogurt",
+    "features" : [
+      "strawberries",
+      "goats milk",
+      "wheat grass",
+      "chocolate",
+      "blue cheese",
+      "sprinkles"
+    ],
+    "image" : "live-ladybugs_compress.svg"
+  },
+    {
+      "name" : "A home mushroom farm",
+      "calories" : "$22.85",
+      "description" : "frozen yogurt",
+      "features" : [
+        "strawberries",
+        "goats milk",
+        "wheat grass",
+        "chocolate",
+        "blue cheese",
+        "sprinkles"
+      ],
+      "image" : "81WCBll2QvL._SL1500__compress.svg"
+    },
+      {
+        "name" : "A cat butt tissue holder",
+        "calories" : "$34.94",
+        "description" : "frozen yogurt",
+        "features" : [
+          "strawberries",
+          "goats milk",
+          "wheat grass",
+          "chocolate",
+          "blue cheese",
+          "sprinkles"
+        ],
+        "image" : "71QugMJmYJL._SL1500__compress.svg"
+        }
+  ]
+}
