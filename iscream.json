@@ -1,44 +1,67 @@
 {
 "companyName" : "I Scream Inc.",
-"headOffice" : "South Pole, Anatarctica",
-"established" : 2000, 
-"active" : true,
 "topFlavours" : [
   {
-    "name" : "Monstrous Mint", 
-    "calories" : 800,
-    "type" : "ice cream", 
-    "ingredients" : [
-      "peppermint cream", 
-      "dark chocolate chips", 
-      "vanilla" 
-    ],
-    "image": "chocolate-mint.svg"
-  },
-  
-  {
-    "name" : "Perfect Peach Mango", 
-    "calories" : 560,
-    "type" : "sorbet",
-    "ingredients" : [
+    "name" : "A pre-fabricated home in a shipping container",
+    "price" : "$36,000",
+    "features" : [
       "peach puree", "mango", "honey"
     ],
-    "image" : "peach-mango.svg"
+    "description" : "peppermint cream",
+    "image": "uranium-ore_compress.svg"
   },
-  
+
   {
-    "name" : "Stupendous Strawberry",
-    "calories" : 1400,
-    "type" : "frozen yogurt",
-    "ingredients" : [
-      "strawberries", 
-      "goats milk", 
-      "wheat grass", 
+    "name" : "1,500 live ladybugs",
+    "price" : "$3.05",
+    "description" : "sorbet",
+    "features" : [
+      "peach puree", "mango", "honey"
+    ],
+    "image" : "uranium-ore_compress.svg"
+  },
+
+  {
+    "name" : "Uranium ore",
+    "calories" : "$39.95",
+    "description" : "frozen yogurt",
+    "features" : [
+      "strawberries",
+      "goats milk",
+      "wheat grass",
       "chocolate",
       "blue cheese",
       "sprinkles"
     ],
-    "image" : "strawberry-sprinkle.svg"
-    }
+    "image" : "live-ladybugs_compress.svg"
+  },
+    {
+      "name" : "A home mushroom farm",
+      "calories" : "$22.85",
+      "description" : "frozen yogurt",
+      "features" : [
+        "strawberries",
+        "goats milk",
+        "wheat grass",
+        "chocolate",
+        "blue cheese",
+        "sprinkles"
+      ],
+      "image" : "81WCBll2QvL._SL1500__compress.svg"
+    },
+      {
+        "name" : "A cat butt tissue holder",
+        "calories" : "$34.94",
+        "description" : "frozen yogurt",
+        "features" : [
+          "strawberries",
+          "goats milk",
+          "wheat grass",
+          "chocolate",
+          "blue cheese",
+          "sprinkles"
+        ],
+        "image" : "71QugMJmYJL._SL1500__compress.svg"
+        }
   ]
 }
